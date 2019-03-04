@@ -1,0 +1,30 @@
+#errors {
+	font-size: 20px;
+	color: red;
+	margin-bottom: 20px;
+}
+#success {
+	font-size: 20px;
+	color: lightgreen;
+	margin-bottom: 20px;
+}
+#messages {
+	margin-top: 40px;
+}
+#messages .message {
+	border-radius: 10px;
+	border: 1px solid #aaa;
+	padding: 6px 12px;
+	margin-bottom: 10px;
+}
+#messages .username {
+	font-size: 20px;
+	font-weight: bold;
+	margin-right: 20px;
+}
+#messages .date {
+	font-size: 16px;
+}
+#messages .message_text {
+	margin-bottom: 10px;
+}
